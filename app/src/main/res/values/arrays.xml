@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>가정교육과</item>
+        <item>교육학과</item>
+        <item>국어교육과</item>
+        <item>컴퓨터과학과</item>
+
+    </string-array>
+
+
+</resources>
